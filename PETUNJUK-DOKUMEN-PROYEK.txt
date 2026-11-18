@@ -1,0 +1,7 @@
+DOKUMEN PROYEK UNTUK WEBSITE PT SAHID UNGGUL MANDIRI
+
+Di halaman Portofolio, klik tombol "Jelajahi dokumen" untuk membuka seluruh halaman dokumen di tab browser baru. Browser biasanya menampilkan PDF dengan fitur zoom, pindah halaman, dan cetak.
+
+File PDF adalah versi baca online dari presentasi PowerPoint agar pengunjung dapat langsung melihatnya tanpa aplikasi PowerPoint. File PPTX asli tetap disediakan untuk diunduh. Dokumen SS Cikunir memang tersedia dalam arsip sumber sebagai PDF.
+
+Jangan pisahkan folder documents/proyek dari index.html. Pertahankan struktur folder saat mengunggah website ke hosting.

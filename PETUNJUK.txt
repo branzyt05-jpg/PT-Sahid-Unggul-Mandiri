@@ -1,0 +1,24 @@
+WEBSITE GABUNGAN — PT SAHID UNGGUL MANDIRI
+
+Paket ini menggabungkan website yang kamu unggah dengan modul portofolio Proyek SUM. Konten lama dipertahankan; bagian portofolio baru ditambahkan sebelum bagian Kontak.
+
+CARA MENJALANKAN
+1. Ekstrak seluruh ZIP ke satu folder.
+2. Buka folder tersebut di VS Code.
+3. Jalankan index.html dengan Live Server.
+4. Jangan pisahkan folder portfolio-assets, images, atau documents dari file utama.
+
+FILE UTAMA
+- index.html: halaman website gabungan
+- style.css dan script.js: file website asli yang kamu kirim
+- portfolio.css dan portfolio.js: tampilan dan interaksi portofolio baru
+- portfolio-assets/: 26 gambar dokumentasi
+- logo.jpeg dan images/favicon.png: logo
+- documents/: dokumen legalitas yang disertakan
+
+CATATAN PENTING
+- Menu Portofolio mengarah ke bagian baru; menu Proyek lama tetap dipertahankan.
+- Materi proyek ditampilkan sebagai dokumentasi/as-built/visualisasi sesuai arsip. Paket tidak mengklaim perusahaan sebagai pelaksana proyek karena peran tersebut belum terkonfirmasi.
+- Bagian visi dan misi pada website asli masih diberi keterangan konsep dan perlu persetujuan perusahaan.
+- Pastikan nomor WhatsApp 0852-9025-6497, email, alamat, serta tautan Google Maps sudah dikonfirmasi oleh perusahaan sebelum dipublikasikan.
+- Untuk GitHub Pages, unggah semua isi folder hasil ekstrak ke root branch main, bukan hanya index.html.
